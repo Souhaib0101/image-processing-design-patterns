@@ -1,4 +1,4 @@
-package net.montaki;
+package net.montaki.strategy;
 
 public class FiltreSeuillage implements Filtre {
     @Override
